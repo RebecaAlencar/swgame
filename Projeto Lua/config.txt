@@ -1,0 +1,17 @@
+--resolução da tela
+resolution.x=600
+resolution.y=400
+--configuração do teclado
+keyboard.up="KEY_UP"
+keyboard.down="KEY_DOWN"
+keyboard.left="KEY_LEFT"
+keyboard.right="KEY_RIGHT"
+keyboard.a="KEY_A"
+keyboard.b="KEY_S"
+keyboard.c="KEY_D"
+keyboard.d="KEY_W"
+keyboard.start="KEY_ENTER"
+--codigos marter
+code.mastercode="lua+c"
+code.hp=95
+code.velocidade=1
